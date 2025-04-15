@@ -3,7 +3,7 @@
 ## Description
 
 The following program calculates the edit distance, the matrix of calculation 
-    used to find the edit distnace, and an alignment that verifies the edit distance
+    used to find the edit distnace, and an alignment that verifies the edit distance.
 The program will prompt the user for two words after the program is executed and
     will print the results in the command line. After the results are printed,
     the program will prompt the user to decide whether to find the edit distance of 
@@ -32,7 +32,7 @@ make edit_disance
 
 ## Authors
 
-Arturo Flores, 
-    Department of Computer Science 
-    California State University, Fullerton
-    arturof033@csu.fullerton.edu
+Arturo Flores, <br>
+> Department of Computer Science <br>
+> California State University, Fullerton <br>
+> arturof033@gmail.com <br>
